@@ -1,0 +1,15 @@
+<VisualMicro>
+  <Program Name="MSE_2202_Lab_04" Ext=".ino" Location="D:\My Documents\Arduino\MSE_2202_Lab_04">
+    <Compile CompilerErrors="0" ConfigurationName="Release" StopOnError="False" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\Dustin\AppData\Local\VMicro\Arduino\Builds\MSE_2202_Lab_04\atmega328" IncludeDebug="0" IncludesDebug="0" SketchName="MSE_2202_Lab_04" IsCompiled="1" />
+    <Debug />
+    <Platform Name="Arduino">
+      <Board Name="atmega328" Description="Arduino Duemilanove w/ ATmega328" CoreFolder="D:\Program Files\arduino-1.0.3\hardware\arduino\cores\arduino" VariantFullPath="D:\Program Files\arduino-1.0.3\hardware\arduino\variants\standard" bootloader.extended_fuses="0x05" bootloader.file="ATmegaBOOT_168_atmega328.hex" bootloader.high_fuses="0xDA" bootloader.lock_bits="0x0F" bootloader.low_fuses="0xFF" bootloader.path="atmega" bootloader.unlock_bits="0x3F" build.core="arduino" build.f_cpu="16000000L" build.mcu="atmega328p" build.variant="standard" build.variant.vmresolved="D:\Program Files\arduino-1.0.3\hardware\arduino\variants\standard" name="Arduino Duemilanove w/ ATmega328" upload.maximum_size="30720" upload.protocol="arduino" upload.speed="57600" />
+    </Platform>
+    <VCCodeModel>
+      <VCCodeMacros>
+        <VCCodeMacro Name="ARDUINO" Value="103" />
+        <VCCodeMacro Name="__AVR_ATmega328P__" />
+      </VCCodeMacros>
+    </VCCodeModel>
+  </Program>
+</VisualMicro>
